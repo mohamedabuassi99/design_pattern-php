@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":116:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:20:"testCanCreateBMWCare";d:0.006;s:20:"testCanCreateBenzCar";d:0.001;}}}
